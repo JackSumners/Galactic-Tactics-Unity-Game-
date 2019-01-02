@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4FA0327E-852B-8352-AB49-CA0C5568E514}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Plane_Brain.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Turret_Tracking.cs" Line="57" Column="48" />
+      <File FileName="Assets/Scripts/BAttacker.cs" Line="78" Column="1" />
+      <File FileName="Assets/Scripts/Plane_Brain.cs" Line="16" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

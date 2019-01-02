@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6BCB1861-C142-D7A5-5515-CE4232B0E434}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Plane_Brain.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Plane_Brain.cs" Line="26" Column="7" />
+      <File FileName="Assets/Scripts/BDefender.cs" Line="42" Column="37" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="10" Column="50" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="23" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

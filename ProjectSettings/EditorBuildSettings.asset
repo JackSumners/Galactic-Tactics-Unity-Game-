@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Beta_Scene.unity
+    guid: 1c05d97313f6b48d7a7420ce76bea6db
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 4b0b6ca55da98c04bae44541b2962bac
+  - enabled: 1
+    path: Assets/Scenes/Alpha_Scene_L1.unity
+    guid: f27478a359755471293514e06959a21d
+  - enabled: 1
+    path: Assets/Scenes/Between_Menu1.unity
+    guid: 993e1064901c3914694a3783d26ecd96
+  - enabled: 1
+    path: Assets/Scenes/Alpha_Scene_L2.unity
+    guid: 4f8d6506b588a4130bb75a5fdd473d5c
+  - enabled: 1
+    path: Assets/Scenes/Between_Menu2.unity
+    guid: 28617541954a2f844935d23b1634a9ec
+  - enabled: 1
+    path: Assets/Scenes/Alpha_Scene_L3.unity
+    guid: 36a567440a4384653a612b412bcb2f7c
+  - enabled: 1
+    path: Assets/Scenes/GameOverBad.unity
+    guid: b4973e730e409417fb3aee4412326616
+  - enabled: 1
+    path: Assets/Scenes/GameOverGood.unity
+    guid: 97a7365d6525849a6a5f0fe8eae39eb5
+  - enabled: 0
+    path: Assets/Scenes/Between_Menu.unity
+    guid: cbb38a7d01498ac4d834de7cee464aa3
+  m_configObjects: {}

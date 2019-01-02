@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: e4a8a83875828402cb761e58f36f4385
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BarrelGuard_default2
+    100002: Base_default6
+    100004: Base_default6_002
+    100006: Gun_default3
+    100008: Gun_default3_001
+    100010: Gun_default3_002
+    100012: Gun_default3_003
+    100014: Gun_default3_004
+    100016: Gun_default3_005
+    100018: Gun_default3_006
+    100020: Gun_default3_007
+    100022: Gun_default3_008
+    100024: Gun_default3_009
+    100026: Gun_default3_010
+    100028: Gun_default3_011
+    100030: Gun_default3_012
+    100032: Gun_default3_013
+    100034: Gun_default3_014
+    100036: Gun_default3_015
+    100038: Gun_default3_016
+    100040: Gun_default3_017
+    100042: Gun_default3_018
+    100044: Gun_default3_019
+    100046: Gun_default3_020
+    100048: Gun_default3_021
+    100050: Gun_default3_022
+    100052: //RootNode
+    100054: Motor_default5
+    400000: BarrelGuard_default2
+    400002: Base_default6
+    400004: Base_default6_002
+    400006: Gun_default3
+    400008: Gun_default3_001
+    400010: Gun_default3_002
+    400012: Gun_default3_003
+    400014: Gun_default3_004
+    400016: Gun_default3_005
+    400018: Gun_default3_006
+    400020: Gun_default3_007
+    400022: Gun_default3_008
+    400024: Gun_default3_009
+    400026: Gun_default3_010
+    400028: Gun_default3_011
+    400030: Gun_default3_012
+    400032: Gun_default3_013
+    400034: Gun_default3_014
+    400036: Gun_default3_015
+    400038: Gun_default3_016
+    400040: Gun_default3_017
+    400042: Gun_default3_018
+    400044: Gun_default3_019
+    400046: Gun_default3_020
+    400048: Gun_default3_021
+    400050: Gun_default3_022
+    400052: //RootNode
+    400054: Motor_default5
+    2100000: default3
+    2100002: Material_003
+    2100004: default6
+    2100006: default5
+    2100008: default3_001
+    2100010: Material_002
+    2100012: default2
+    2300000: BarrelGuard_default2
+    2300002: Base_default6
+    2300004: Base_default6_002
+    2300006: Gun_default3
+    2300008: Gun_default3_001
+    2300010: Gun_default3_002
+    2300012: Gun_default3_003
+    2300014: Gun_default3_004
+    2300016: Gun_default3_005
+    2300018: Gun_default3_006
+    2300020: Gun_default3_007
+    2300022: Gun_default3_008
+    2300024: Gun_default3_009
+    2300026: Gun_default3_010
+    2300028: Gun_default3_011
+    2300030: Gun_default3_012
+    2300032: Gun_default3_013
+    2300034: Gun_default3_014
+    2300036: Gun_default3_015
+    2300038: Gun_default3_016
+    2300040: Gun_default3_017
+    2300042: Gun_default3_018
+    2300044: Gun_default3_019
+    2300046: Gun_default3_020
+    2300048: Gun_default3_021
+    2300050: Gun_default3_022
+    2300052: Motor_default5
+    3300000: BarrelGuard_default2
+    3300002: Base_default6
+    3300004: Base_default6_002
+    3300006: Gun_default3
+    3300008: Gun_default3_001
+    3300010: Gun_default3_002
+    3300012: Gun_default3_003
+    3300014: Gun_default3_004
+    3300016: Gun_default3_005
+    3300018: Gun_default3_006
+    3300020: Gun_default3_007
+    3300022: Gun_default3_008
+    3300024: Gun_default3_009
+    3300026: Gun_default3_010
+    3300028: Gun_default3_011
+    3300030: Gun_default3_012
+    3300032: Gun_default3_013
+    3300034: Gun_default3_014
+    3300036: Gun_default3_015
+    3300038: Gun_default3_016
+    3300040: Gun_default3_017
+    3300042: Gun_default3_018
+    3300044: Gun_default3_019
+    3300046: Gun_default3_020
+    3300048: Gun_default3_021
+    3300050: Gun_default3_022
+    3300052: Motor_default5
+    4300000: Gun_default3_022
+    4300002: Gun_default3_021
+    4300004: Gun_default3_020
+    4300006: Gun_default3_019
+    4300008: Gun_default3_018
+    4300010: Gun_default3_017
+    4300012: Gun_default3_016
+    4300014: Gun_default3_015
+    4300016: Gun_default3_014
+    4300018: Gun_default3_013
+    4300020: Gun_default3_012
+    4300022: Gun_default3_011
+    4300024: Gun_default3_010
+    4300026: Gun_default3_009
+    4300028: Gun_default3_008
+    4300030: Gun_default3_007
+    4300032: Gun_default3_006
+    4300034: Gun_default3_005
+    4300036: Gun_default3_004
+    4300038: Gun_default3_003
+    4300040: Gun_default3_002
+    4300042: Gun_default3_001
+    4300044: Base_default6_002
+    4300046: Motor_default5
+    4300048: Gun_default3
+    4300050: Base_default6
+    4300052: BarrelGuard_default2
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
